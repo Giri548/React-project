@@ -6,7 +6,7 @@ import Giri from './Giri.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <App />
-    <Giri/>
+   
+    <App/>
   </StrictMode>,
 ) 
